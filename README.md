@@ -1,4 +1,6 @@
-# MÖRK BORG for Foundry VTT
+# MÖRK BORG for Foundry VTT: Homebrewed Fork
+
+If you're looking for the non-homebrewed version that has lots of hard work put into it by not-me, go check it out [here](https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/).
 
 An unoffical, community-supported system for playing [MÖRK BORG](https://morkborg.com/) on [Foundry VTT](http://foundryvtt.com/).
 
